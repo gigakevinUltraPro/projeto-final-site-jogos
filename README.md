@@ -10,6 +10,6 @@
  <p>2. vizualização de noticias,dicas e afins</p>
  
  <h1>TECNOLOGIAS USADAS</h1>
- -HTML e CSS para a estilização e pagina principal
- -PHP para o armazenamento das noticias,dicas,memes e etc.
- -Estarei utilizando também o XAMPP para utilizar as ferramentas e linguagens de PHP
+ <p>-HTML e CSS para a estilização e pagina principal</p>
+ <p>-PHP para o armazenamento das noticias,dicas,memes e etc</p>
+ <p>-Estarei utilizando também o XAMPP para utilizar as ferramentas e linguagens de PHP</p>
